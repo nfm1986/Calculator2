@@ -7,6 +7,7 @@ public class CAlculator2025 {
     }
     
     public static int add(int x, int y) {
+        // Fixed bug
         return x+y;
     }
     
